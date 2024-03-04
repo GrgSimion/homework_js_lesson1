@@ -14,5 +14,8 @@ let  celsiusTemperature = 10;
 let multiplyResult= (celsiusTemperature * 9/5) + 32;
 console.log( `Rezultatul conversiei dintre Celsius & Fahreinheit este : ${multiplyResult}`)
 
+// valoarea Hello
 
+const myName = "George";
+console.log(`Hellow ${myName}`)
 
