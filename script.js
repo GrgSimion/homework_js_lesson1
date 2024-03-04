@@ -19,3 +19,10 @@ console.log( `Rezultatul conversiei dintre Celsius & Fahreinheit este : ${multip
 const myName = "George";
 console.log(`Hellow ${myName}`)
 
+// verificare numar par
+
+let checkedNumber = 22;
+
+let reminder = checkedNumber % 2;
+let isEven = reminder == 0;
+console.log (`Number ${checkedNumber} is even: ${isEven}`);
